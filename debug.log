@@ -1,0 +1,22 @@
+DEBUG:root:Begin Loop
+DEBUG:root:0.25
+DEBUG:root:0.5
+DEBUG:root:0.75
+DEBUG:root:1.0
+DEBUG:root:1.25
+DEBUG:root:1.5
+DEBUG:root:1.75
+DEBUG:root:2.0
+DEBUG:root:2.25
+DEBUG:root:2.5
+DEBUG:root:2.75
+DEBUG:root:3.0
+DEBUG:root:3.25
+DEBUG:root:3.5
+DEBUG:root:3.75
+DEBUG:root:4.0
+DEBUG:root:4.25
+DEBUG:root:4.5
+DEBUG:root:4.75
+DEBUG:root:End loop
+DEBUG:root:End Prog
